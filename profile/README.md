@@ -11,7 +11,7 @@
 |-------------|--------------------| -------------------- |  
 | [노경희](https://github.com/khee2) | Frontend & Backend           |  경로 찾기, 리뷰
 | [유윤지](https://github.com/lehiewl) | Frontend & Backend             | 회원, 테마별 장소
-| [이예지](https://github.com/orgs/korea-tour-mate-app/people/lyezzil) | Data           |  여행 장소 추천
+| [이예지](https://github.com/lyezzil) | Data           |  여행 장소 추천
 
 </br>
 
